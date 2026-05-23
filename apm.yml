@@ -1,0 +1,7 @@
+name: opencode-plus
+version: 1.0.0
+description: OpenCode Plus — enhanced skills and agents for OpenCode users
+author: abi_jey <git@public.abja.dev>
+targets:
+- opencode
+includes: auto

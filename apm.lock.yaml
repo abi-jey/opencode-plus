@@ -1,0 +1,5 @@
+lockfile_version: '1'
+generated_at: '2026-05-23T21:22:22.619792+00:00'
+dependencies: []
+local_deployed_files:
+- .agents/skills/opencode-plus
