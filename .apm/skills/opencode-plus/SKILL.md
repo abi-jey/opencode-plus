@@ -1,1 +1,0 @@
-../../../skills/opencode-plus/SKILL.md

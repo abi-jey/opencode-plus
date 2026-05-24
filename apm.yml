@@ -1,6 +1,6 @@
-name: opencode-plus
+name: opencode-collab
 version: 1.0.0
-description: OpenCode Plus — enhanced skills and agents for OpenCode users
+description: OpenCode Collab — collaborative subagent workflows for OpenCode users
 author: abi_jey <git@public.abja.dev>
 targets:
 - opencode
