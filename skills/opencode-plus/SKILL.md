@@ -14,5 +14,4 @@ In a fresh conversation sub agent will probably have no memory.
 In a continued conversation (They will remember previous interactions, limited to that task id only)
 
 ## Experinmental
-You may also be able have async conversations, or wait for them to finish task/thinking/investigation, although that is still experimental (can be enabled if you ask user to `export OPENCODE_EXPERIMENTAL_BACKGROUND_SUBAGENTS=true`, or similar and restart the opencode.)
-
+You may also be able have async conversations, or wait for them to finish task/thinking/investigation, although that is still experimental (can be enabled if you ask user to `export OPENCODE_EXPERIMENTAL_BACKGROUND_SUBAGENTS=true`, or similar and restart the opencode.) Try first and see if it's available, if yes use the background as well.
