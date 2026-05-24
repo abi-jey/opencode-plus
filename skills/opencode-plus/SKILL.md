@@ -11,7 +11,7 @@ When it comes to using task tool. You can either start a fresh converstaion . Or
 
 Regarding Memory:
 In a fresh conversation sub agent will probably have no memory.
-In a continued conversation (They will remember previous interactions, limited to that task id only)
+In a continued conversation (They will remember previous interactions, limited to that task id only) try to limit yourself and do not lunch same same agent multiple times.
 
 ## Experinmental
 You may also be able have async conversations, or wait for them to finish task/thinking/investigation, although that is still experimental (can be enabled if you ask user to `export OPENCODE_EXPERIMENTAL_BACKGROUND_SUBAGENTS=true`, or similar and restart the opencode.) Try first and see if it's available, if yes use the background as well.
